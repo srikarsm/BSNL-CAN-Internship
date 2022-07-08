@@ -2,7 +2,7 @@
 A Campus Area Network for an Engineering college using Virtual Local Area Network(VLAN) with Physical Network Security implementation and connectivity of Internet with wired and wireless access.
 This repository contains the final .pkt file of my project for my summer internship with Bharat Sanchar Nigam Limited(BSNL).
 
-#PROJECT DESCRIPTION
+PROJECT DESCRIPTION
 In this project, I have designed a college Campus Area Network with VLANs with different Hosts and Departments as per the following requirements. 
 
 -College campus is a (Ground + 4 )5 Floor building. 
