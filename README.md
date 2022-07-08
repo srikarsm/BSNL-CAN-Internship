@@ -23,7 +23,7 @@ In this project, I have designed a college Campus Area Network with VLANs with d
 
 -Administrator has been asked to make sure that if anyone connect a host  in the vacant ports of switch in any floor they should not work.
 
--Administrator has been asked to allocate 40 Mbps bandwidth to CSC department, 30 Mbps bandwidth to IT department, 20 Mbps bandwidth for ECE department & 10 Mbps bandwidth to EEE department for Internet access. 
+-Administrator has been asked to allocate 40 Mbps bandwidth to CSE department, 30 Mbps bandwidth to IT department, 20 Mbps bandwidth for ECE department & 10 Mbps bandwidth to EEE department for Internet access. 
 
 -ISP has given 10.10.10.0/30 subnet to college and asked the  college administrator to configure the WAN link IP 10.10.10.1at College side WAN interface on Router. The Internet IP pool given to college is 117.117.117.0/29.
 
