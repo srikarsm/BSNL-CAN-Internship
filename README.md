@@ -11,7 +11,7 @@ In this project, I have designed a college Campus Area Network with VLANs with d
 
 -Ground Floor has a 100Mbps connectivity to ISP for Internet with a CISCO 2811 Router with a single LAN port . 
 
--First, Second, Third and Fourth floors have Hosts belonging to CSE/IT//ECE/EEE departments related to I year, II year, III Year and Final year students class rooms. Each Floor has a switch connecting these hosts.
+-First, Second, Third and Fourth floors have Hosts belonging to CSE/IT/ECE/EEE departments related to I year, II year, III Year and Final year students class rooms. Each Floor has a switch connecting these hosts.
 
 -Switch from the top floor is connected directly to its next floor switch and finally from the First floor switch, a cable is extended to ground floor to the LAN port of CISCO Router 2811.
 
